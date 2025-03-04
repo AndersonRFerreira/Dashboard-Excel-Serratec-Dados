@@ -1,4 +1,4 @@
-# Dashboard viagens à serviços 
+# Dashboard viagens à serviço
 
 O dashboard faz uma análise descritiva utilizando a base dados fornecida pelo site Portal da transparência do governo federal.
 Para a execução do trabalho foi utilizado o MS excel e suas funcionalidades.
