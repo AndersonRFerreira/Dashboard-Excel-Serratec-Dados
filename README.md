@@ -14,7 +14,7 @@ Tabelas dinamcias com gráficos para compor o visual.
 Icones baixados de sites como Iconify e Awesone icons, que foram estilizados com o figma.
 
 para executar o arquivo basta somente fazer o download para a sua maquina, certificando que tenha o MS Excel instalado,
-Após aberto o arquivo, faça o comando CRTL + SHFIT + F1  por em tela cheia e melhorar a visualização.
+Após aberto o arquivo, faça o comando CRTL + SHIFT + F1  por em tela cheia e melhorar a visualização.
 
 todos os arquivos utlizados neste projeto se encontram neste repósitorio.
 Espero que seja útil e se divirtam.
