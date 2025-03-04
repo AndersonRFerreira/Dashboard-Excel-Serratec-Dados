@@ -12,6 +12,7 @@ Foram utilizados os segintes recursos:
 Figma para fazer um Wireframe do projeto.
 Power Query para tratamento dos dados.
 Power pivot para fazer o relacionamento entre as tabelas.
+Aplicados conceitos de Banco de dados (tabela fato e dimensão, e chave primária/Chave estrangeira).
 Tabelas dinamcias com gráficos para compor o visual.
 Icones baixados de sites como Iconify e Awesone icons, que foram estilizados com o figma.
 
