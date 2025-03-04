@@ -1,5 +1,7 @@
 # Dashboard viagens à serviço
 
+
+
 O dashboard faz uma análise descritiva utilizando a base dados fornecida pelo site Portal da transparência do governo federal.
 Para a execução do trabalho foi utilizado o MS excel e suas funcionalidades.
 Este dashboard é a cocnlusão do módulo Excel avançado da Residencia TIC dados do SERRATEC.
