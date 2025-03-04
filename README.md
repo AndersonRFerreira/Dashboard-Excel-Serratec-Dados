@@ -1,6 +1,6 @@
 # Dashboard viagens à serviço
 
-![Dashboard](Dashboard-Excel-Serratec-Dados/Print_Dash.png)
+![Dashboard](Print_Dash.png)
 
 O dashboard faz uma análise descritiva utilizando a base dados fornecida pelo site Portal da transparência do governo federal.
 Para a execução do trabalho foi utilizado o MS excel e suas funcionalidades.
